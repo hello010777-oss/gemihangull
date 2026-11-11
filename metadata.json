@@ -1,0 +1,6 @@
+{
+  "name": "몸으로 만들어요 한글",
+  "description": "유치원 아이들이 카메라 화면을 보며 몸으로 한글 자음과 모음을 만들고 사진을 찍어 기록하는 신체 놀이 학습 앱",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
